@@ -1,0 +1,11 @@
+node_modules/
+build/
+data/
+
+.env
+
+.idea
+.vscode
+.sublime
+
+package-lock.json
