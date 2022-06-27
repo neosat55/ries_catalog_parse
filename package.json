@@ -1,8 +1,7 @@
 {
-  "name": "projects",
+  "name": "ries_catalog_parse",
   "version": "1.0.0",
-  "description": "",
-  "main": "headers.js",
+  "description": "Ries catalog parser",
   "scripts": {
     "dev": "tsc --watch",
     "parse": "tsc && node build/index.js"
