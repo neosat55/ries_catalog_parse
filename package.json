@@ -12,7 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "playwright": "^1.9.1",
-    "rambda": "^6.5.3"
+    "playwright": "^1.9.1"
   }
 }
